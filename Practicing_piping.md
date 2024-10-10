@@ -44,7 +44,7 @@ here we learn how to use tee and use it to get the flag
 ![image](https://github.com/user-attachments/assets/f3220bba-fcc2-4e10-ad52-4ea44ee410f2)
 
 ## Split- pipping stderr and stdout
-
+Using ```2>``` and ```>()``` together to pipe stderr while using ```1>``` and ```>()``` to pipe stdout.
 ![image](https://github.com/user-attachments/assets/ad52ba86-69f9-4f8a-82fb-6f8a226df701)
 
 
