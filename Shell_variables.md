@@ -6,6 +6,7 @@ we learn how to print variables in the terminal window
 
 ## Setting variables 
 Here we learn how to set shell variables 
+
 ![image](https://github.com/user-attachments/assets/dad5f28a-f446-41be-867c-6c7000a5dbca)
 
 ## Multi-word variables 
