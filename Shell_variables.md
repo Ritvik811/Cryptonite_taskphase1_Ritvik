@@ -25,3 +25,8 @@ Here we learn there are other ways to print output and not only echo. we use ```
 ![image](https://github.com/user-attachments/assets/aa8e30f4-0aa1-469f-b014-774ad47efb75)
 
 ## Storing command output 
+Here we learn how to directly store the output into a variable. we use $(). we can also use backticks but its generally not reccomended as it is an older method and we can't use it in nested commands.
+
+![image](https://github.com/user-attachments/assets/3081ed73-451a-4483-9250-6daa8a6e8128)
+
+## Reading input 
