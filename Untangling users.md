@@ -16,6 +16,6 @@ Here we see where and how passowrds are stored. We use john the ripper to get th
 ![image](https://github.com/user-attachments/assets/2616bf63-1675-46f0-8aa6-99747c3a3ad9)
 
 ## Using sudo
-Here we learn a bit about sudo and use it to read the flag
+Here we learn a bit about ```sudo``` and use it to read the flag
 
 ![image](https://github.com/user-attachments/assets/b6b8c109-7f75-4d7f-b5b4-9bd6a9424596)
